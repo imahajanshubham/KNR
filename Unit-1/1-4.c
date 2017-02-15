@@ -1,16 +1,19 @@
 #include <stdio.h>
+#include <stdlib.h>
+
+#define LOWER 0
+#define UPPER 300
+#define STEP 20
 
 int main()
 {
-    float  fr, cs ;
-    
-    do {
-        printf("Celsius: ");
-        scanf("%f", &cs);
+        int fahrenheit;
+        system("clear");
         
-        fr = (9 * cs) / 5 + 32;
-        printf("Fahrenhiet: %.5f.\n\n", fr);
-    }while(cs != 0.0);
-    
-    return 0;
-}
+        printf(" *F     *C\n");
+        for (fahrenheit = LOWER; fahrenheit <= UPPER; fahrenheit = fahrenheit + STEP) {
+                printf("%3d %6.1f\n", fahrenheit, (5.0/9.0)*(fahrenheit-32));
+        }
+        
+        return 0; 
+}       

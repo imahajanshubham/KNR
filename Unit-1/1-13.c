@@ -1,96 +1,31 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-#define MAXNUMBER 20
-#define START 0
-#define MAXLENGTH 10
-
-void getValuesInArray();
-void calcLengthOfNo();
-void addIndexInHistogram();
-void fillHistogram();
-void printHistogram();
-
-char asciiValue;
-
-int numberArray[MAXNUMBER], lengthArray[MAXNUMBER], iterator, testCase, tempValue, length, increment;
-char histogramArray[MAXLENGTH][MAXNUMBER];
+#define START 1
+#define ON 1
+#define OFF 0
 
 int main()
 {
-    int i, j;
-    printf("\nTest Cases - ");
-    scanf("%d", &testCase);
-    for(i = 0; i < 10; i++)
-    {
-        for(j = 0; j < 20; j++)
-        {
-            histogramArray[i][j] = '-';
-        }
-    }
-    
-    getValuesInArray();
-    
-    return 0;
-}
+        int newCharacter, iterator, flag = ON;
+        system("clear");
 
-void getValuesInArray()
-{
-    iterator = START;
-    while(iterator < testCase) {
-        printf("Value - %d: ", iterator + 1);
-        scanf("%d", &numberArray[iterator++]);
-    }
-    
-    calcLengthOfNo();
-}
-
-void calcLengthOfNo()
-{
-    iterator  = START;
-    increment = 2;
-    while(iterator < testCase) {
-        tempValue = numberArray[iterator];
-        length = START;
+        printf("Ubuntu:~$ ");
         
-        while(tempValue != START) {
-            length++;
-            tempValue /= 10;
+        while((newCharacter = getchar()) != EOF)
+        {
+                if(newCharacter == ' ' || newCharacter == '\n' || newCharacter == '\t') {
+                        printf("\n");   if(newCharacter == '\n') flag = ON;   printf("\t  ");
+                }
+                else {
+                        if(flag == ON) {
+                                printf("\t");
+                                for(iterator = START; iterator <= 10; iterator++) printf("%3d", iterator);
+                                printf("\n\t  ");   flag = OFF;
+                        }
+                        printf("*  ");
+                }
         }
-        tempValue = iterator;
-        addIndexInHistogram();
-        iterator = ++tempValue;
-    }
-    printHistogram();
-}
-
-void addIndexInHistogram()
-{
-    iterator = START;
-    asciiValue = '1';
-    while(iterator < MAXLENGTH - 1) {
-        histogramArray[iterator][START] = asciiValue++;
-        iterator++;
-    }
-    fillHistogram();
-}
-
-void fillHistogram()
-{
-    iterator = START;
-    while(iterator < length) {
-        histogramArray[iterator][increment + 1] = '#';
-        iterator++;
-    }
-    increment = increment + 2;
-}
-
-void printHistogram()
-{
-    printf("\n");
-    for(iterator = 8; iterator >= 0; iterator--) {
-        for(increment = START; increment < MAXNUMBER; increment++) {
-            printf("%c", histogramArray[iterator][increment]);
-        }
-        printf("\n");
-    }
+        
+        return 0;
 }
