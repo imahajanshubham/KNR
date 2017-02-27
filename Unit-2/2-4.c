@@ -49,28 +49,26 @@ void getLine(char string[])
 
 void squeeze(char firstString[], char secondString[])
 {
-        iterator = secondIterator = START;
-        while(firstString[iterator] != NULLCHAR) {
-                if(firstString[iterator] == secondString[secondIterator]) {
-                        
-                        temp = iterator;
-                        
-                        while(firstString[iterator] != NULLCHAR) {
-                                firstString[iterator] = firstString[iterator++ + 1];
-                        }
-                        iterator = temp;
-                        
-                        if(firstString[iterator] == NULLCHAR) {
-                                break;
-                        }
-                        secondIterator++;
-                }
-                else {
-                        iterator++;
-                        secondIterator++;
-                }
-                
+    iterator = secondIterator = START;
+    
+    while(firstString[iterator] != NULLCHAR) {
+        if(firstString[iterator] == secondString[secondIterator]) {
+            temp = iterator;
+            
+            while(firstString[iterator] != NULLCHAR)
+                firstString[iterator] = firstString[iterator++ + 1];
+            
+            iterator = temp; 
+            if(firstString[iterator] == NULLCHAR)
+                break;
+            secondIterator++;
         }
+        else {
+            iterator++;
+            secondIterator++;
+        }
+                
+    }
 }
 
 void putString(char string[])
