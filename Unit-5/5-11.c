@@ -1,5 +1,5 @@
 /*
-	Exercise 5.12
+	Exercise 5.11
 	____
 	Extend entab and detab to accept the shorthand entab -m +n to mean tab stops every n columns;
 	starting at column m. choose a convenient (for the user) default behaviour.
