@@ -66,8 +66,8 @@ int cstnReadLines( char *lineptr[], char *bufferStorage, int maxLines )
             
             lineptr[ nlines++ ] = buff_ptr;
             buff_ptr += buff_Len;
-		}
 	}
+    }
 	
     return nlines;
 }
