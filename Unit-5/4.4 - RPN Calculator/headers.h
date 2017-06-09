@@ -81,7 +81,7 @@ int negativeNumFound()
 int unknownCharFound()
 {
 	if( !isdigit( newChar ) && newChar !='.' && newChar !='-' ) 
-    	return newChar;
+		return newChar;
     	
     	
    	return 0;
