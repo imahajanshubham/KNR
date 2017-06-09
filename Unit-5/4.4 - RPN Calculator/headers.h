@@ -102,6 +102,8 @@ int getop()
 {
 	charCount = 0;
 	removeTrailingSpaces();
+	
+	
     if( unknownCharFound() ) 
     	return newChar;
     
