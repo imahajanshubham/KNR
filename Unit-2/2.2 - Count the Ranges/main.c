@@ -18,8 +18,8 @@
 
 int main( int argc, char **argv ) {
 
-
-	printf( "\n" );
+	
+  printf( "\n" );
 
 
   printf( "Maximum | Signed,\n___\n" );
@@ -27,6 +27,7 @@ int main( int argc, char **argv ) {
   printf( "\t2. Short %d.\n" , ( ( unsigned short ) ~ 0 >> 1 ) );
   printf( "\t3. Int   %d.\n" , ( ( unsigned int   ) ~ 0 >> 1 ) );
   printf( "\t4. Long  %ld.\n", ( ( unsigned long  ) ~ 0 >> 1 ) );
+
 
   printf( "\n" );
 
