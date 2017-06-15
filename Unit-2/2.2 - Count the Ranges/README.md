@@ -1,31 +1,31 @@
-##		Print the range of various Data-Structures.
+# Print the range of various Data-Structures.
 ![Alt text](https://drive.google.com/uc?export=download&id=1n4pyGD3HDhtOsPzUlzaCzzxRrqqExKzS1w "Count the Ranges")
 
-###		Logic Used
+### Logic Used
 
 1. Use of Bitwise Operators.
 2. **~** ( Binary One's Complement ) 0 will give bits in 1s.
 3. **>>** ( Binary Right Shift Operator ) 1 shifts 1 bit to remove the sign bit.
 4. Use of type-casting.
 
-###		Explanation
+### Explanation
 
 ```
 1. The left-most bit is usually the sign bit. To make it unsigned,
-   we only need toremove the sign bit and store 0 in it’s place.
+   we only need to remove the sign bit and store 0 in it’s place.
 ```
 ```
-2. Size of char is 1 Byte.
+2. Size of char is 1 Byte i.e. 8 Bits.
    So, (unsigned char) 0 = 0000 0000.
-   And, to get negative value, Let's take it's complement,
+   And, to get negative value, let's take it's complement,
 	
 	(unsigned char) ~ 0 = 1111 1111.
 ```
 ```
 3. Now, How to remove left-most bit i.e. 1?
-   We'll simply do Right Shift 1 will shift the entire sequence to the right,
+   We'll simply do Right Shift 1 which will shift the entire sequence to the right,
    and simply insert 0 from the left side,
    
-   So it will give 0111 1111 and converting **0111 1111** to integer will be: 127!
+   So it will give 0111 1111 and converting 0111 1111 to integer will give: 127!
 ```
 ## Cheers!
