@@ -7,20 +7,20 @@
 # include "others.h"
 
 
-//									| ----- Primary Functions. ----- |
+//					| ----- Primary Functions. ----- |
 
 
 void dcl( void ) {
    
 
-    for( ptrCount = 0; gettoken() == '*'; ptrCount++ )
+	for( ptrCount = 0; gettoken() == '*'; ptrCount++ )
 		;
 
 
-    dirdcl();
+	dirdcl();
 
-
-    while( ptrCount-- > 0 )
+	
+	while( ptrCount-- > 0 )
 		strcat( out, "pointer to" );
 }
 
@@ -37,27 +37,27 @@ void checkForValidParen( void ) {
 void dirdcl( void ) {
 
 
-    if( tokentype == '(' )
+	if( tokentype == '(' )
 		checkForValidParen();
 
 
 	else if( tokentype == NAME )
-        strcpy( name, token );
+		strcpy( name, token );
 
 
 	else errmsg( "Error: Expected name or (dcl)\n" );
 
 
-    while( ( tokentype = gettoken() ) == PARENS || tokentype == BRACKETS )
+	while( ( tokentype = gettoken() ) == PARENS || tokentype == BRACKETS )
 
 
 		if( tokentype == PARENS )
-            strcat( out, "function returning" );
+			strcat( out, "function returning" );
 
 
 		else {
-            strcat( out, "array" );
-            strcat( out, token   );
-            strcat( out, "of"    );
-        }
+			strcat( out, "array" );
+			strcat( out, token   );
+			strcat( out, "of"    );
+		}
 }
