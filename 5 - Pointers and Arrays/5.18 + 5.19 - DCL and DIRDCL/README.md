@@ -12,7 +12,7 @@
 ```
 1. Let's say, user wants to write -
 
-		'x is a function returning a pointer to an array of pointers to function returning char'
+	'x is a function returning a pointer to an array of pointers to function returning char'
 
 	In expression form, This statement would become -
 		x () * [] * () char
@@ -33,7 +33,8 @@
 			
 		    x() * i.e. Token will preceed the DCL as follows:
 		( * x() )                    -> It becomes DIRDCL
-	NOTE - As soon as a new Token is encountered, DCL has to be enclosed inside parenthesis to convert it into DIRDCL.
+	NOTE - As soon as a new Token is encountered,
+	DCL has to be enclosed inside parenthesis to convert it into DIRDCL.
 
 
 	4. Next up, [],
@@ -55,12 +56,12 @@
 		char ( ( * ( * x() ) [] )() )
 ```
 ```
-	That's it,
+That's it,
 
-	From the statement... x () * [] * () char,
-		we get the expression, char ( ( * ( * x() ) [] )() )
+From the statement... x () * [] * () char,
+	we get the expression, char ( ( * ( * x() ) [] )() )
 
 
-	That's DCL and DIRDCL !
+That's DCL and DIRDCL !
 ```
 ## Cheers!
