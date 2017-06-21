@@ -5,7 +5,7 @@
 # include "globals.h"
 
 
-//									| ----- The getToken Function. ----- |
+//					| ----- The getToken Function. ----- |
 
 
 void checkForValidAlphaNum( void ) {
@@ -56,7 +56,7 @@ void removeTrailingSpaces( void ) {
 
 
 	while( ( nextToken =getch() ) == ' ' || nextToken == '\t' )
-        ;
+		;
 }
 
 
@@ -75,7 +75,7 @@ int prevTokenFound( void ) {
 int gettoken( void ) {
 
 
-    ptr = token;
+	ptr = token;
 
 
 	if( prevTokenFound() ) return tokentype;
@@ -84,19 +84,19 @@ int gettoken( void ) {
 	removeTrailingSpaces();
 
 
-    if( nextToken == '(' )
+	if( nextToken == '(' )
 		checkForValidParenthesis();
 
 
-    else if( nextToken == '[' )
+	else if( nextToken == '[' )
 		checkForValidBrackets();
 
 
-    else if( isalpha( nextToken ) )
+	else if( isalpha( nextToken ) )
 		checkForValidAlphaNum();
 
 
-    else tokentype = nextToken;
+	else tokentype = nextToken;
 
 
 	return tokentype;
