@@ -1,7 +1,7 @@
 # include "macros.h"
 
 
-//									| ----- Global Variables. ----- |
+//						| ----- Global Variables. ----- |
 
 
 int prevtoken;
@@ -19,7 +19,7 @@ char        out[    MAXLEN ];
 char        buf[   BUFSIZE ];
 
 
-//									| ----- Function Declarations. ----- |
+//						| ----- Function Declarations. ----- |
 
 
 int prevTokenFound( void );
