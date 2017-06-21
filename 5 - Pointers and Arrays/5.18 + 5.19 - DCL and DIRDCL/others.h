@@ -6,7 +6,7 @@
 # include "globals.h"
 
 
-//									| ----- Secondary Functions. ----- |
+//					| ----- Secondary Functions. ----- |
 
 
 void errmsg( char *msg ) {
