@@ -29,7 +29,7 @@ void ungetch( int newChar ) {
 
 	if ( bufp >= BUFSIZE )
 		printf( "Ungetch: Too many characters.\n" );
-
+ 
 
 	else buf[ bufp++ ] = newChar;
 }
