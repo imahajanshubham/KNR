@@ -1,6 +1,6 @@
 
 
-//									| ----- Macros. ----- |
+//						| ----- Macros. ----- |
 
 
 # define TOKENSIZE 25
