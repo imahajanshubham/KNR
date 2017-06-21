@@ -8,11 +8,11 @@
 # include "gettoken.h"
 
 
-//										KNR - Exercise 5.18 + 5.19
-//									  | ----- DCL and DIRDCL ----- |
+//						KNR - Exercise 5.18 + 5.19
+//					       | ----- DCL and DIRDCL ----- |
 //									  
-//				1. Make dcl recover from input errors.
-//				2. Modify undcl so that it does not add redundant parentheses to declarations.
+//			1. Make dcl recover from input errors.
+//			2. Modify undcl so that it does not add redundant parentheses to declarations.
 
 
 int main() {
@@ -26,7 +26,7 @@ int main() {
 
 
 		strcpy( out, token );
-		while( ( tokentype = gettoken() ) != '\n' )
+		while( ( tokentype = gettoken() ) != '\n' ) {
 
 
 			if( tokentype == PARENS || tokentype == BRACKETS )
@@ -47,7 +47,8 @@ int main() {
 
 
 			else printf("Invalid input at %s\n", token );
-
+		}
+		
 
 		printf( "%s\n\n", out );
 	}
