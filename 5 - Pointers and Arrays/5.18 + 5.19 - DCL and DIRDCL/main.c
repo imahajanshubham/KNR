@@ -19,6 +19,7 @@ int main() {
 
 
 	printf("\n");
+	system( " notify-send -i face-wink \"DCL and DIRDCL Program\" \"A humble attempt :D\" " );
 	bufp = 0, prevtoken = NO;
 
 
@@ -54,5 +55,6 @@ int main() {
 	}
 
 
+	system( " notify-send -i face-wink \"That's it guys!\" \"Do refer the README.md :)\" " );
 	return 0;
 }
