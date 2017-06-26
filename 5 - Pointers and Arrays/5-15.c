@@ -4,11 +4,12 @@
 
 
 #define NUMERIC 1
+#define MAXLEN 1000
 #define DECR 2
 #define FOLD 4
 #define LINES 100
 
-
+int getline( char *line );
 int charcmp(char *, char *);
 int numcmp(char *, char *);
 int readlines(char *lineptr[], int maxlines);
@@ -17,13 +18,13 @@ void write lines(char *lineptr[], int nlines, int order);
 static char option = 0;
 
 
- main(int argc, char *argv[])
+int  main(int argc, char *argv[])
 {
  char *lineptr[LINES];
  int nlines;
  int c, rc = 0;
  while(--argc > 0 && (*++argv)[0] == '-')
-  while(c = *++argv[0]
+  while(c = *++argv[0])
                     switch(c) {
                     
                     case 'f':
@@ -44,7 +45,7 @@ static char option = 0;
  if(argc)
   printf("Usage:sort -dfnr \n");
  else{
-  if(nlines = readlines(lineptr, LINES)) > 0){
+  if((nlines = readlines(lineptr, LINES)) > 0){
    if(option & NUMERIC)
     qsort((void **) lineptr, 0, nlines-1,(int (*)(void *, void *)) numcmp);
    else
@@ -64,7 +65,7 @@ int charcmp(char *s, char *t)
  for(; tolower(*s) == tolower(*t);s++,t++)
   if(*s == '\0')
    return 0;
- return tolwer(*s) - tolower(*t);
+ return tolower(*s) - tolower(*t);
 }
 
 
@@ -74,7 +75,7 @@ int readlines(char *lineptr[], int maxlines)
  char *p, line[MAXLEN];
 
  nlines = 0;
- while ((len = getline(line, MAXLEN)) > 0)
+ while ((len = getline(line)) > 0)
   if (nlines >= maxlines || (p = malloc(len)) == NULL)
    return -1;
   else {
@@ -83,6 +84,13 @@ int readlines(char *lineptr[], int maxlines)
    lineptr[nlines++] = p;
   }
  return nlines;
+}
+
+
+int getline( char *line ) {
+
+	fgets( line, MAXLEN, stdin );
+	return strlen(line);
 }
 
 
