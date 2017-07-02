@@ -1,0 +1,14 @@
+# include <stdio.h>
+
+void main( void ) {
+    
+    char choice = 'a';
+
+    switch( choice ) {
+
+        case 'a': /* ... */ break;
+        case 'b': /* ... */ break;
+        case 'c': /* ... */ break;
+         default: break;
+    }
+}
