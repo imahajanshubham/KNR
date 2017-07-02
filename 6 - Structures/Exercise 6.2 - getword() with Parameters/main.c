@@ -3,11 +3,11 @@
 # include <string.h>
 
 
-# include "keysStructure.c"
-# include "./header_files/globals.h"
-# include "/utilities/utility.c"
-# include "/header_files/macros.h"
-# include "/input_output/input_output.c"
+//# include "keysStructure.c"
+//# include "./header_files/globals.h"
+# include "./utilities/utility.c"
+//# include "./header_files/macros.h"
+//# include "./input_output/input_output.c"
 
 
 int main( void ) {

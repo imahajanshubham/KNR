@@ -1,10 +1,9 @@
-# include <stdio.h>
 # include <string.h>
 
 
 # include "../header_files/globals.h"
-# include "../header_files/macros.h"
-# include "../keysStructure.c"
+//# include "../header_files/macros.h"
+//# include "../keysStructure.c"
 
 
 /* ----- Utility Functions. ----- */
