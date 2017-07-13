@@ -12,54 +12,54 @@
 ```
 1. Let's say, user wants to write -
 
-	'x is a function returning a pointer to an array of pointers to function returning char'
+    'x is a function returning a pointer to an array of pointers to function returning char'
 
-	In expression form, This statement would become -
-		x () * [] * () char
+    In expression form, This statement would become -
+        x () * [] * () char
 
-		where,
-			() -> Function,
-			[] -> Array
-			*  -> Pointer.
+        where,
+() -> Function,
+[] -> Array
+*  -> Pointer.
 ```
 ```
 2. Let's try to analyze it step-by-step...
 
-	1. First, x                      -> It's a DIRDCL.
+    1. First, x                      -> It's a DIRDCL.
 
-	2. Next, x()                     -> It becomes DCL.
+    2. Next, x()                     -> It becomes DCL.
 
-	3. Next token is '*', So now we have
-			
-		    x() * i.e. Token will preceed the DCL as follows:
-		( * x() )                    -> It becomes DIRDCL
-	NOTE - As soon as a new Token is encountered,
-	DCL has to be enclosed inside parenthesis to convert it into DIRDCL.
+    3. Next token is '*', So now we have
 
-
-	4. Next up, [],
-		( * x() ) []                 -> It becomes DCL.
+            x() * i.e. Token will preceed the DCL as follows:
+        ( * x() )                    -> It becomes DIRDCL
+    NOTE - As soon as a new Token is encountered,
+    DCL has to be enclosed inside parenthesis to convert it into DIRDCL.
 
 
-	5. Next is, '*', another token! So, it'll preceed previous DCL as follows:
-
-		  * ( * x() ) []               -> It's still a DCL, eclose it in parenthesis.
-		( * ( * x() ) [] )           -> It now became DIRDCL.
+    4. Next up, [],
+        ( * x() ) []                 -> It becomes DCL.
 
 
-	6. Next up, ()...
-		  ( * ( * x() ) [] )()        -> It's now DCL.
-		( ( * ( * x() ) [] )() )      -> It's DIRCLR.
+    5. Next is, '*', another token! So, it'll preceed previous DCL as follows:
+
+          * ( * x() ) []               -> It's still a DCL, eclose it in parenthesis.
+        ( * ( * x() ) [] )           -> It now became DIRDCL.
 
 
-	7. Last token is 'char' so,
-		char ( ( * ( * x() ) [] )() )
+    6. Next up, ()...
+          ( * ( * x() ) [] )()        -> It's now DCL.
+        ( ( * ( * x() ) [] )() )      -> It's DIRCLR.
+
+
+    7. Last token is 'char' so,
+        char ( ( * ( * x() ) [] )() )
 ```
 ```
 That's it,
 
 From the statement... x () * [] * () char,
-	we get the expression, char ( ( * ( * x() ) [] )() )
+    we get the expression, char ( ( * ( * x() ) [] )() )
 
 
 That's DCL and DIRDCL !

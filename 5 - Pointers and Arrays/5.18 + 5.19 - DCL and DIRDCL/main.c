@@ -33,6 +33,7 @@ int main() {
 			if( tokentype == PARENS || tokentype == BRACKETS )
 				strcat( out, token );
 
+
 			else if( tokentype == '*' ) {
 
 

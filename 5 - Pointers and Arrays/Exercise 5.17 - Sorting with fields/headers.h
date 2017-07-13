@@ -9,8 +9,9 @@
 # include "others.h"
 
 
-void substr( char *line_buffer, char *str )
-{
+void substr( char *line_buffer, char *str ) {
+
+
     len = strlen( line_buffer );
         
 
