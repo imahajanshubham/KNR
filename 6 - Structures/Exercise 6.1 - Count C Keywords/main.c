@@ -6,9 +6,7 @@
 # include "globals.h"
 # include "others.h"
 
-
 int main( void ) {
-
 
     flag = 0;
     lineNo = bufp = 0, printf( "\n" );
@@ -23,10 +21,10 @@ int main( void ) {
         exit( 0 );
     }
 
-    
+
     while( fscanf( fptr, " %15s", word ) == 1 ) {
 
-        
+
         if( isalpha( word[ 0 ] ) )
 
 
