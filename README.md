@@ -3,5 +3,5 @@
 # Introduction
 
 ```
-coming soon !
+coming soon :)
 ```
