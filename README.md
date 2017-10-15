@@ -3,5 +3,5 @@
 # About - The Journey !
 
 ```
- Stay Tuned. Coming Soon !
+ Stay Tuned !
 ```
