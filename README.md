@@ -3,5 +3,5 @@
 # About - The Journey !
 
 ```
- Stay Tuned !
+ Intro en route, Stay tuned <3
 ```
