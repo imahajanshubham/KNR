@@ -2,5 +2,7 @@
 
 # About - The Journey !
 
-## Intro en route !
-### Stay tune
+### Intro en route !
+```
+Stay Tuned :D
+```
