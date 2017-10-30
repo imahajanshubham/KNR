@@ -1,0 +1,798 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABS	3 - Control Flow/3-4.c	4;"	d	file:
+ALLOCSIZE	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/macros.h	8;"	d
+ALLOCSIZE	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	10;"	d
+ALLOCSIZE	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	12;"	d
+BACKSLASH	1 - A Tutorial Introduction/1-10.c	14;"	d	file:
+BACKSLASH	1 - A Tutorial Introduction/1-10.c	7;"	d	file:
+BRACKETS	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	11;"	d
+BUFFERSIZE	5 - Pointers and Arrays/5-1.cpp	12;"	d	file:
+BUFFERSIZE	5 - Pointers and Arrays/5-2.cpp	12;"	d	file:
+BUFFSIZE	6 - Structures/Exercise 6.1 - Count C Keywords/macros.h	7;"	d
+BUFSIZE	4 - Functions and Program Structure/4-3-b.c	10;"	d	file:
+BUFSIZE	4 - Functions and Program Structure/4-3.c	9;"	d	file:
+BUFSIZE	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	7;"	d
+BUFSIZE	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	8;"	d
+BUFSIZE	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/macros.h	10;"	d
+CLEAR	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	9;"	d
+DECR	5 - Pointers and Arrays/5-15.c	8;"	d	file:
+DECR	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	5;"	d
+DECR	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	6;"	d
+DEFAULT	5 - Pointers and Arrays/5-13.c	18;"	d	file:
+DIRECTORY_SORT	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	18;"	d
+DUPLICATE	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	11;"	d
+ERROR	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	12;"	d
+EXIT	1 - A Tutorial Introduction/1-10.c	15;"	d	file:
+EXIT	1 - A Tutorial Introduction/1-10.c	8;"	d	file:
+EXIT	1 - A Tutorial Introduction/1-12.c	8;"	d	file:
+EXIT	1 - A Tutorial Introduction/1-8.c	12;"	d	file:
+EXIT	1 - A Tutorial Introduction/1-9.c	7;"	d	file:
+EXIT	3 - Control Flow/3-2.c	6;"	d	file:
+EXTRACT	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	16;"	d
+FAIL	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	14;"	d
+FAIL	4 - Functions and Program Structure/4-1.c	6;"	d	file:
+FALSE	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	8;"	d
+FALSE	5 - Pointers and Arrays/5-14.c	19;"	d	file:
+FOLD	5 - Pointers and Arrays/5-15.c	9;"	d	file:
+FOLD	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	6;"	d
+FOLD	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	10;"	d
+FOLD	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	7;"	d
+FOLDED_SORT	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	19;"	d
+FOUND	1 - A Tutorial Introduction/1-23.c	25;"	d	file:
+FOUND	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	6;"	d
+GET_NEXT_ITEM	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	17;"	d
+IN	1 - A Tutorial Introduction/1-11.c	5;"	d	file:
+INSIDECMNT	1 - A Tutorial Introduction/1-23.c	27;"	d	file:
+INSIDECMNT	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	8;"	d
+ITEM1	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	22;"	d
+ITEM2	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	23;"	d
+IfFile_AlreadyProcessed	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int IfFile_AlreadyProcessed()$/;"	f
+IntegerToBaseString	3 - Control Flow/3-5.c	/^void IntegerToBaseString(int number, char string[], int base)$/;"	f
+LINES	5 - Pointers and Arrays/5-15.c	10;"	d	file:
+LINES	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	8;"	d
+LINES	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	9;"	d
+LOWER	1 - A Tutorial Introduction/1-4.c	4;"	d	file:
+MAXLEN	4 - Functions and Program Structure/4-12.c	5;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-11.c	15;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-12.c	14;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-13.c	17;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-14.c	20;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-15.c	7;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-3.c	15;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-4.c	16;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5-5.c	16;"	d	file:
+MAXLEN	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/macros.h	7;"	d
+MAXLEN	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	9;"	d
+MAXLEN	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	7;"	d
+MAXLEN	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	4;"	d
+MAXLEN	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	13;"	d
+MAXLENGTH	1 - A Tutorial Introduction/1-23.c	21;"	d	file:
+MAXLENGTH	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	2;"	d
+MAXLENGTH	2 - Types, Operators, and Expressions/2-2.c	4;"	d	file:
+MAXLENGTH	2 - Types, Operators, and Expressions/2-3.c	4;"	d	file:
+MAXLENGTH	2 - Types, Operators, and Expressions/2-4.c	4;"	d	file:
+MAXLENGTH	2 - Types, Operators, and Expressions/2-5.c	4;"	d	file:
+MAXLENGTH	3 - Control Flow/3-1.c	4;"	d	file:
+MAXLENGTH	3 - Control Flow/3-2.c	7;"	d	file:
+MAXLENGTH	3 - Control Flow/3-4.c	6;"	d	file:
+MAXLENGTH	3 - Control Flow/3-5.c	4;"	d	file:
+MAXLENGTH	3 - Control Flow/3-6.c	4;"	d	file:
+MAXLENGTH	4 - Functions and Program Structure/4-1.c	4;"	d	file:
+MAXLENGTH	4 - Functions and Program Structure/4-13.c	5;"	d	file:
+MAXLENGTH	4 - Functions and Program Structure/4-2.c	4;"	d	file:
+MAXLINE	1 - A Tutorial Introduction/1-16.c	14;"	d	file:
+MAXLINES	5 - Pointers and Arrays/5-13.c	16;"	d	file:
+MAXLINES	5 - Pointers and Arrays/5-14.c	17;"	d	file:
+MAXLINES	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/macros.h	6;"	d
+MAXLINES	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	3;"	d
+MAXOP	4 - Functions and Program Structure/4-3-b.c	6;"	d	file:
+MAXOP	4 - Functions and Program Structure/4-3.c	5;"	d	file:
+MAXOP	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	4;"	d
+MAXSIZE	1 - A Tutorial Introduction/1-17.c	4;"	d	file:
+MAXSIZE	1 - A Tutorial Introduction/1-18.c	4;"	d	file:
+MAXSIZE	1 - A Tutorial Introduction/1-19.c	4;"	d	file:
+MAXSIZE	1 - A Tutorial Introduction/1-20.c	6;"	d	file:
+MAXSIZE	1 - A Tutorial Introduction/1-21.c	6;"	d	file:
+MAXSIZE	1 - A Tutorial Introduction/1-22.c	6;"	d	file:
+MAXSTORAGE	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	6;"	d
+MAXSTR	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	4;"	d
+MAXVAL	4 - Functions and Program Structure/4-3-b.c	9;"	d	file:
+MAXVAL	4 - Functions and Program Structure/4-3.c	8;"	d	file:
+MAXVAL	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	6;"	d
+MAXWORD	6 - Structures/Exercise 6.1 - Count C Keywords/macros.h	6;"	d
+MAXWORD	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/macros.h	9;"	d
+MDIR	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	7;"	d
+MDIR	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	11;"	d
+MDIR	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	8;"	d
+MINIMUMNO	3 - Control Flow/3-1.c	5;"	d	file:
+NAME	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	9;"	d
+NEWLINE	1 - A Tutorial Introduction/1-12.c	5;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-17.c	7;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-18.c	8;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-19.c	8;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-20.c	10;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-21.c	10;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-22.c	10;"	d	file:
+NEWLINE	1 - A Tutorial Introduction/1-8.c	9;"	d	file:
+NEWLINE	2 - Types, Operators, and Expressions/2-2.c	7;"	d	file:
+NEWLINE	2 - Types, Operators, and Expressions/2-3.c	5;"	d	file:
+NEWLINE	2 - Types, Operators, and Expressions/2-4.c	5;"	d	file:
+NEWLINE	2 - Types, Operators, and Expressions/2-5.c	5;"	d	file:
+NKEYS	6 - Structures/Exercise 6.1 - Count C Keywords/macros.h	10;"	d
+NKEYS	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/macros.h	8;"	d
+NO	5 - Pointers and Arrays/5-11.c	18;"	d	file:
+NO	5 - Pointers and Arrays/5-12.c	17;"	d	file:
+NO	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	12;"	d
+NOTFOUND	1 - A Tutorial Introduction/1-23.c	26;"	d	file:
+NOTFOUND	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	7;"	d
+NO_FREE_MEMORY	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	24;"	d
+NULLCHAR	1 - A Tutorial Introduction/1-17.c	6;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-18.c	7;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-19.c	7;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-20.c	9;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-21.c	9;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-22.c	9;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/1-23.c	28;"	d	file:
+NULLCHAR	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	9;"	d
+NULLCHAR	2 - Types, Operators, and Expressions/2-2.c	6;"	d	file:
+NULLCHAR	2 - Types, Operators, and Expressions/2-3.c	6;"	d	file:
+NULLCHAR	2 - Types, Operators, and Expressions/2-4.c	6;"	d	file:
+NULLCHAR	2 - Types, Operators, and Expressions/2-5.c	6;"	d	file:
+NULLCHAR	4 - Functions and Program Structure/4-1.c	5;"	d	file:
+NUMBER	4 - Functions and Program Structure/4-3-b.c	7;"	d	file:
+NUMBER	4 - Functions and Program Structure/4-3.c	6;"	d	file:
+NUMBER	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	5;"	d
+NUMBERIC_SORT	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	20;"	d
+NUMERIC	5 - Pointers and Arrays/5-15.c	6;"	d	file:
+NUMERIC	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	4;"	d
+NUMERIC	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/macros.h	5;"	d
+OFF	1 - A Tutorial Introduction/1-13.c	6;"	d	file:
+OFF	1 - A Tutorial Introduction/1-18.c	13;"	d	file:
+OFF	1 - A Tutorial Introduction/1-19.c	13;"	d	file:
+OFF	1 - A Tutorial Introduction/1-20.c	15;"	d	file:
+OFF	1 - A Tutorial Introduction/1-21.c	16;"	d	file:
+OFF	1 - A Tutorial Introduction/1-22.c	16;"	d	file:
+OFF	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	16;"	d
+OFF	2 - Types, Operators, and Expressions/2-10.c	5;"	d	file:
+OFF	2 - Types, Operators, and Expressions/2-3.c	9;"	d	file:
+OFF	2 - Types, Operators, and Expressions/2-4.c	9;"	d	file:
+OFF	2 - Types, Operators, and Expressions/2-5.c	9;"	d	file:
+OFF	3 - Control Flow/3-2.c	9;"	d	file:
+ON	1 - A Tutorial Introduction/1-13.c	5;"	d	file:
+ON	1 - A Tutorial Introduction/1-18.c	12;"	d	file:
+ON	1 - A Tutorial Introduction/1-19.c	12;"	d	file:
+ON	1 - A Tutorial Introduction/1-20.c	14;"	d	file:
+ON	1 - A Tutorial Introduction/1-21.c	15;"	d	file:
+ON	1 - A Tutorial Introduction/1-22.c	15;"	d	file:
+ON	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	15;"	d
+ON	2 - Types, Operators, and Expressions/2-10.c	4;"	d	file:
+ON	2 - Types, Operators, and Expressions/2-3.c	8;"	d	file:
+ON	2 - Types, Operators, and Expressions/2-4.c	8;"	d	file:
+ON	2 - Types, Operators, and Expressions/2-5.c	8;"	d	file:
+ON	3 - Control Flow/3-2.c	8;"	d	file:
+OUT	1 - A Tutorial Introduction/1-11.c	6;"	d	file:
+OVERFLOW	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	5;"	d
+PARENS	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	10;"	d
+READ	1 - A Tutorial Introduction/1-23.c	30;"	d	file:
+READ	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	11;"	d
+READMODE	1 - A Tutorial Introduction/1-23.c	23;"	d	file:
+READMODE	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	4;"	d
+REVERSE_SORT	5 - Pointers and Arrays/5.16 - Directory Sorter/macros.h	21;"	d
+SPACE	1 - A Tutorial Introduction/1-10.c	12;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-10.c	5;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-12.c	6;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-18.c	9;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-19.c	9;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-20.c	11;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-21.c	11;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-22.c	11;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-8.c	10;"	d	file:
+SPACE	1 - A Tutorial Introduction/1-9.c	5;"	d	file:
+START	1 - A Tutorial Introduction/1-10.c	11;"	d	file:
+START	1 - A Tutorial Introduction/1-10.c	4;"	d	file:
+START	1 - A Tutorial Introduction/1-11.c	4;"	d	file:
+START	1 - A Tutorial Introduction/1-12.c	4;"	d	file:
+START	1 - A Tutorial Introduction/1-13.c	4;"	d	file:
+START	1 - A Tutorial Introduction/1-14.c	5;"	d	file:
+START	1 - A Tutorial Introduction/1-17.c	5;"	d	file:
+START	1 - A Tutorial Introduction/1-18.c	5;"	d	file:
+START	1 - A Tutorial Introduction/1-19.c	5;"	d	file:
+START	1 - A Tutorial Introduction/1-20.c	7;"	d	file:
+START	1 - A Tutorial Introduction/1-21.c	7;"	d	file:
+START	1 - A Tutorial Introduction/1-22.c	7;"	d	file:
+START	1 - A Tutorial Introduction/1-23.c	22;"	d	file:
+START	1 - A Tutorial Introduction/1-8.c	8;"	d	file:
+START	1 - A Tutorial Introduction/1-9.c	4;"	d	file:
+START	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	3;"	d
+START	2 - Types, Operators, and Expressions/2-2.c	5;"	d	file:
+START	2 - Types, Operators, and Expressions/2-3.c	7;"	d	file:
+START	2 - Types, Operators, and Expressions/2-4.c	7;"	d	file:
+START	2 - Types, Operators, and Expressions/2-5.c	7;"	d	file:
+START	3 - Control Flow/3-1.c	6;"	d	file:
+START	3 - Control Flow/3-2.c	5;"	d	file:
+START	3 - Control Flow/3-4.c	7;"	d	file:
+START	3 - Control Flow/3-5.c	5;"	d	file:
+START	3 - Control Flow/3-6.c	5;"	d	file:
+START	4 - Functions and Program Structure/4-1.c	7;"	d	file:
+START	4 - Functions and Program Structure/4-12.c	7;"	d	file:
+START	4 - Functions and Program Structure/4-13.c	6;"	d	file:
+START	4 - Functions and Program Structure/4-2.c	5;"	d	file:
+START	4 - Functions and Program Structure/4-3-b.c	8;"	d	file:
+START	4 - Functions and Program Structure/4-3.c	7;"	d	file:
+START	5 - Pointers and Arrays/5-1.cpp	11;"	d	file:
+START	5 - Pointers and Arrays/5-2.cpp	11;"	d	file:
+STEP	1 - A Tutorial Introduction/1-4.c	6;"	d	file:
+STEP	4 - Functions and Program Structure/4-12.c	6;"	d	file:
+SUCCESS	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	13;"	d
+SWAP	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	12;"	d
+TAB	1 - A Tutorial Introduction/1-10.c	13;"	d	file:
+TAB	1 - A Tutorial Introduction/1-10.c	6;"	d	file:
+TAB	1 - A Tutorial Introduction/1-12.c	7;"	d	file:
+TAB	1 - A Tutorial Introduction/1-18.c	10;"	d	file:
+TAB	1 - A Tutorial Introduction/1-19.c	10;"	d	file:
+TAB	1 - A Tutorial Introduction/1-20.c	12;"	d	file:
+TAB	1 - A Tutorial Introduction/1-21.c	12;"	d	file:
+TAB	1 - A Tutorial Introduction/1-22.c	12;"	d	file:
+TAB	1 - A Tutorial Introduction/1-8.c	11;"	d	file:
+TAB	1 - A Tutorial Introduction/1-9.c	6;"	d	file:
+TABSIZE	5 - Pointers and Arrays/5-11.c	16;"	d	file:
+TABSIZE	5 - Pointers and Arrays/5-12.c	15;"	d	file:
+TABWIDTH	1 - A Tutorial Introduction/1-21.c	13;"	d	file:
+TABWIDTH	1 - A Tutorial Introduction/1-22.c	13;"	d	file:
+TOKENSIZE	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	6;"	d
+TOP_ELEMENT	5 - Pointers and Arrays/4.4 - RPN Calculator/macros.h	10;"	d
+TOTALASCIIVALUES	1 - A Tutorial Introduction/1-14.c	4;"	d	file:
+TRUE	5 - Pointers and Arrays/5-14.c	18;"	d	file:
+UPPER	1 - A Tutorial Introduction/1-4.c	5;"	d	file:
+WRITE	1 - A Tutorial Introduction/1-23.c	29;"	d	file:
+WRITE	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	10;"	d
+WRITEMODE	1 - A Tutorial Introduction/1-23.c	24;"	d	file:
+WRITEMODE	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	5;"	d
+YES	5 - Pointers and Arrays/5-11.c	17;"	d	file:
+YES	5 - Pointers and Arrays/5-12.c	16;"	d	file:
+YES	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/macros.h	13;"	d
+afree	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^void afree( char *p )$/;"	f
+afree	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^void afree( char *p )$/;"	f
+alloc	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^char *alloc( int n ) {$/;"	f
+alloc	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^char *alloc( int n )$/;"	f
+alloc	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^char *alloc( int n )$/;"	f
+allocbuf	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^char allocbuf[ ALLOCSIZE ];$/;"	v
+allocbuf	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char allocbuf[ALLOCSIZE];$/;"	v
+allocbuf	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char allocbuf[ ALLOCSIZE ], *allocp, firstChar;$/;"	v
+allocp	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^char              *allocp;$/;"	v
+allocp	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char *allocp;$/;"	v
+allocp	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char allocbuf[ ALLOCSIZE ], *allocp, firstChar;$/;"	v
+argCount	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int   argCount;$/;"	v
+arrayToBeSearched	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+binsearch	6 - Structures/Exercise 6.1 - Count C Keywords/others.h	/^int binsearch( char *word, struct key tab[] ) {$/;"	f
+binsearch	6 - Structures/Exercise 6.2 - getword() with Parameters/utilities/utility.c	/^int binsearch( char *word, struct key tab[], int keyCount ) {$/;"	f
+blanksCount	5 - Pointers and Arrays/5-12.c	/^int blanksCount, tabCount, buffLen;$/;"	v
+buf	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^char newChar, buf[ BUFSIZE ];$/;"	v
+buf	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char        buf[   BUFSIZE ];$/;"	v
+buf	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^char buf[ BUFFSIZE ];$/;"	v
+buf	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^char buf [ BUFSIZE ];$/;"	v
+bufPointer	5 - Pointers and Arrays/5-13.c	/^char *bufPointer, *buffer, *bufend;$/;"	v
+bufend	5 - Pointers and Arrays/5-13.c	/^char *bufPointer, *buffer, *bufend;$/;"	v
+buffLen	5 - Pointers and Arrays/5-11.c	/^int colIndex, inc, pos, newChar, buffLen = 0;$/;"	v
+buffLen	5 - Pointers and Arrays/5-12.c	/^int blanksCount, tabCount, buffLen;$/;"	v
+buff_Len	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^int buff_Len, nlines;$/;"	v
+buff_ptr	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^char line[ MAXLEN ], *buff_ptr;$/;"	v
+buffer	5 - Pointers and Arrays/5-1.cpp	/^char buffer[ BUFFERSIZE ];$/;"	v
+buffer	5 - Pointers and Arrays/5-13.c	/^char *bufPointer, *buffer, *bufend;$/;"	v
+buffer	5 - Pointers and Arrays/5-2.cpp	/^char buffer[ BUFFERSIZE ];$/;"	v
+bufferIndex	4 - Functions and Program Structure/4-3-b.c	/^int bufferIndex = START;$/;"	v
+bufferIndex	4 - Functions and Program Structure/4-3.c	/^int bufferIndex = START;$/;"	v
+bufferStorage	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^char bufferStorage[ MAXLINES ];$/;"	v
+buffer_pos	5 - Pointers and Arrays/5-1.cpp	/^int buffer_pos = START;$/;"	v
+buffer_pos	5 - Pointers and Arrays/5-2.cpp	/^int buffer_pos = START;$/;"	v
+bufp	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^int operator, charCount, bufp;$/;"	v
+bufp	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^int bufp;$/;"	v
+bufp	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int bufp;$/;"	v
+bufp	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  bufp;$/;"	v
+calcBuffer	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^char calcBuffer[ MAXOP ];$/;"	v
+calcBufferIsEmpty	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void calcBufferIsEmpty()$/;"	f
+celsius	1 - A Tutorial Introduction/1-15.c	/^float fahr, celsius;$/;"	v
+ch	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int ch;$/;"	v
+charCount	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^int operator, charCount, bufp;$/;"	v
+char_1	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char char_1, char_2;$/;"	v
+char_2	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char char_1, char_2;$/;"	v
+charcmp	5 - Pointers and Arrays/5-15.c	/^int charcmp(char *s, char *t)$/;"	f
+charcmp	5 - Pointers and Arrays/5.16 - Directory Sorter/headers.h	/^int charcmp( char *first_Item, char *second_Item )$/;"	f
+charcmp	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^int charcmp( char *firstString, char *secondString )$/;"	f
+checkBufferOverflow	5 - Pointers and Arrays/5-13.c	/^void checkBufferOverflow()$/;"	f
+checkErrorInComments	1 - A Tutorial Introduction/1-23.c	/^void checkErrorInComments(int *newCharacter, int *missplacedComment, FILE *fptrR)$/;"	f
+checkErrorInComments	1 - A Tutorial Introduction/Remove_Comments/main.c	/^void checkErrorInComments()$/;"	f
+checkForMissplacedComment	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int checkForMissplacedComment()$/;"	f
+checkForValidAlphaNum	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^void checkForValidAlphaNum( void ) {$/;"	f
+checkForValidBrackets	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^void checkForValidBrackets( void ) {$/;"	f
+checkForValidParen	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/headers.h	/^void checkForValidParen( void ) {$/;"	f
+checkForValidParenthesis	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^void checkForValidParenthesis( void ) {$/;"	f
+checkIfBlanksEqualsTab	5 - Pointers and Arrays/5-12.c	/^void checkIfBlanksEqualsTab()$/;"	f
+checkIfCharNotANum	5 - Pointers and Arrays/5-1.cpp	/^int checkIfCharNotANum( int *new_char )$/;"	f
+checkIfCharNotANum	5 - Pointers and Arrays/5-2.cpp	/^int checkIfCharNotANum( int *new_char )$/;"	f
+checkIfFlagsPresent	5 - Pointers and Arrays/5-14.c	/^void checkIfFlagsPresent( char *argv[], int iterator )$/;"	f
+checkIfNextCharIsANum	5 - Pointers and Arrays/5-1.cpp	/^int checkIfNextCharIsANum( int *new_char, int *req_number )$/;"	f
+checkIfNextCharIsANum	5 - Pointers and Arrays/5-2.cpp	/^int checkIfNextCharIsANum( int *new_char, double *req_number )$/;"	f
+checkIfStrayCharExistsInEnd	5 - Pointers and Arrays/5-1.cpp	/^void checkIfStrayCharExistsInEnd( int *new_char )$/;"	f
+checkIfStrayCharExistsInEnd	5 - Pointers and Arrays/5-2.cpp	/^void checkIfStrayCharExistsInEnd( int *new_char )$/;"	f
+checkIfTabIsFound	5 - Pointers and Arrays/5-12.c	/^void checkIfTabIsFound()$/;"	f
+checkIfThereIsADecimal	5 - Pointers and Arrays/5-2.cpp	/^int checkIfThereIsADecimal( int *new_char ) {$/;"	f
+checkLeapYear	5 - Pointers and Arrays/5-8.c	/^void checkLeapYear ( int *leap, int year )$/;"	f
+checkLeapYear	5 - Pointers and Arrays/5-9.c	/^void checkLeapYear ( int *leap, int year )$/;"	f
+checkStringOverflow	5 - Pointers and Arrays/5-5.c	/^int checkStringOverflow( int strLen )$/;"	f
+checkTheSignOfChar	5 - Pointers and Arrays/5-1.cpp	/^int checkTheSignOfChar( int *new_char, int *req_number )$/;"	f
+checkTheSignOfChar	5 - Pointers and Arrays/5-2.cpp	/^int checkTheSignOfChar( int *new_char, double *req_number )$/;"	f
+check_Current_FileMode	1 - A Tutorial Introduction/Remove_Comments/main.c	/^void check_Current_FileMode()$/;"	f
+choice	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int nlines, choice, error;$/;"	v
+clearStack	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void clearStack()$/;"	f
+colIndex	5 - Pointers and Arrays/5-11.c	/^int colIndex, inc, pos, newChar, buffLen = 0;$/;"	v
+colIndex	5 - Pointers and Arrays/5-12.c	/^int i, inc, pos, newChar, colIndex;$/;"	v
+combineDecimal_IntNum	5 - Pointers and Arrays/5-2.cpp	/^void combineDecimal_IntNum(double *req_number, double *decimal_num, int *power_multiplier ) {$/;"	f
+cond	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int cond;$/;"	v
+cond	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  cond;$/;"	v
+convertToLowerCase	2 - Types, Operators, and Expressions/2-10.c	/^int convertToLowerCase()$/;"	f
+convertYearToMonthnDay	5 - Pointers and Arrays/5-8.c	/^void convertYearToMonthnDay ( int yearday, int year )$/;"	f
+convertYearToMonthnDay	5 - Pointers and Arrays/5-9.c	/^void convertYearToMonthnDay ( int yearday, int year )$/;"	f
+copy	1 - A Tutorial Introduction/1-16.c	/^void copy( char string1[],char string2[] )$/;"	f
+count	6 - Structures/Exercise 6.1 - Count C Keywords/structures.h	/^    int count;$/;"	m	struct:key
+count	6 - Structures/Exercise 6.2 - getword() with Parameters/keysStructure.c	/^    int  count;$/;"	m	struct:key	file:
+counter	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int len, nlines, counter, last;$/;"	v
+counter	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int newChar, counter, first,  second;$/;"	v
+cstmGetLine	5 - Pointers and Arrays/5.7 - Readlines using array/headers.h	/^int cstmGetLine( char *line_buffer )$/;"	f
+cstmSTRCMP	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/headers.h	/^int cstmSTRCMP( char *buffer1, char *buffer2 ) {$/;"	f
+cstmWriteLines	5 - Pointers and Arrays/5.7 - Readlines using array/headers.h	/^void cstmWriteLines( char *lineptr[], int nlines )$/;"	f
+cstnReadLines	5 - Pointers and Arrays/5.7 - Readlines using array/headers.h	/^int cstnReadLines( char *lineptr[], char *bufferStorage, int maxLines )$/;"	f
+custom_atof	4 - Functions and Program Structure/4-2.c	/^double custom_atof(char string[])$/;"	f
+custom_strcat	5 - Pointers and Arrays/5-3.c	/^void custom_strcat( char *string1, char *string2 )$/;"	f
+custom_strcat	5 - Pointers and Arrays/5-5.c	/^void custom_strcat( char *string1, char *string2 ) {$/;"	f
+custom_strcmp	5 - Pointers and Arrays/5-5.c	/^int custom_strcmp( char *string1, char *string2 )$/;"	f
+custom_strcpy	5 - Pointers and Arrays/5-5.c	/^void custom_strcpy( char *string1, char *string2 )$/;"	f
+custom_strend	5 - Pointers and Arrays/5-4.c	/^int custom_strend( char *string1, char *string2 )$/;"	f
+daysBetween2Dates	5 - Pointers and Arrays/5-8.c	/^int daysBetween2Dates ( int month, int day, int year )$/;"	f
+daysBetween2Dates	5 - Pointers and Arrays/5-9.c	/^int daysBetween2Dates ( int month, int day, int year )$/;"	f
+days_in_month	5 - Pointers and Arrays/5-8.c	/^static char days_in_month [ 2 ] [ 13 ] = {$/;"	v	file:
+days_in_month	5 - Pointers and Arrays/5-9.c	/^static char days_in_month [ 2 ] [ 13 ] = {$/;"	v	file:
+days_till_date	5 - Pointers and Arrays/5-8.c	/^int days_till_date;$/;"	v
+days_till_date	5 - Pointers and Arrays/5-9.c	/^int days_till_date;$/;"	v
+dcl	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/headers.h	/^void dcl( void ) {$/;"	f
+decreasing	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int decreasing;$/;"	v
+deleteEmptyLine	5 - Pointers and Arrays/5-14.c	/^void deleteEmptyLine()$/;"	f
+detab	5 - Pointers and Arrays/5-11.c	/^void detab()$/;"	f
+dir	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int itemCount, fold, dir;$/;"	v
+dir	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int index2,  endpos,  fold,   dir;$/;"	v
+dirdcl	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/headers.h	/^void dirdcl( void ) {$/;"	f
+directory	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int  directory;$/;"	v
+endpos	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int index2,  endpos,  fold,   dir;$/;"	v
+entab	5 - Pointers and Arrays/5-12.c	/^void entab()$/;"	f
+errmsg	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/others.h	/^void errmsg( char *msg ) {$/;"	f
+error	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int nlines, choice, error;$/;"	v
+error	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^void error( char *errMessage )$/;"	f
+escape	3 - Control Flow/3-2.c	/^void escape(char strWithEscSeq[], char strWithoutEscSeq[])$/;"	f
+extractFlagsFromCommandArgs	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void extractFlagsFromCommandArgs( char *argv[] )$/;"	f
+fahr	1 - A Tutorial Introduction/1-15.c	/^float fahr, celsius;$/;"	v
+fileName	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^char fileName[MAXLENGTH], mode = READ;$/;"	v
+fillTheArray	3 - Control Flow/3-1.c	/^void fillTheArray()$/;"	f
+first	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+first	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int newChar, counter, first,  second;$/;"	v
+firstChar	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char allocbuf[ ALLOCSIZE ], *allocp, firstChar;$/;"	v
+flag	1 - A Tutorial Introduction/1-18.c	/^int newCharacter, stringSize, iterator, length, flag;$/;"	v
+flag	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+flag	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^int newCharacter, missplacedComment = NOTFOUND, lineNo = START, flag = OFF;$/;"	v
+flag	2 - Types, Operators, and Expressions/2-10.c	/^int newCharacter, flag = ON;$/;"	v
+flag	2 - Types, Operators, and Expressions/2-3.c	/^int value, iterator, newCharacter, flag, value;$/;"	v
+flag	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+flag	2 - Types, Operators, and Expressions/2-5.c	/^int iterator, newCharacter, flag;$/;"	v
+flag	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^int stackptr, flag;$/;"	v
+flag	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int       flag;$/;"	v
+flag	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int flag;$/;"	v
+fold	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int       fold;$/;"	v
+fold	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int itemCount, fold, dir;$/;"	v
+fold	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int index2,  endpos,  fold,   dir;$/;"	v
+fptr	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^FILE *fptr;$/;"	v
+fptrR	1 - A Tutorial Introduction/Remove_Comments/main.c	/^FILE *fptrR, *fptrW;$/;"	v
+fptrW	1 - A Tutorial Introduction/Remove_Comments/main.c	/^FILE *fptrR, *fptrW;$/;"	v
+getALine	5 - Pointers and Arrays/5-14.c	/^int getALine()$/;"	f
+getDateToConvert	5 - Pointers and Arrays/5-8.c	/^void getDateToConvert ( int *month, int *day, int *year )$/;"	f
+getDateToConvert	5 - Pointers and Arrays/5-9.c	/^void getDateToConvert ( int *month, int *day, int *year )$/;"	f
+getDecimalNumber	5 - Pointers and Arrays/5-2.cpp	/^void getDecimalNumber( int *new_char, double *decimal_num , int *power_multiplier ) {$/;"	f
+getFractionalPart	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void getFractionalPart()$/;"	f
+getInput	3 - Control Flow/3-2.c	/^void getInput()$/;"	f
+getInput	3 - Control Flow/3-4.c	/^void getInput(char string[])$/;"	f
+getInput	3 - Control Flow/3-5.c	/^void getInput(char string[])$/;"	f
+getInput	3 - Control Flow/3-6.c	/^void getInput(char string[])$/;"	f
+getInput	4 - Functions and Program Structure/4-1.c	/^void getInput(char string[])$/;"	f
+getInput	4 - Functions and Program Structure/4-2.c	/^void getInput(char string[])$/;"	f
+getIntFromStdIn	5 - Pointers and Arrays/5-1.cpp	/^int getIntFromStdIn( int *req_number )$/;"	f
+getIntFromStdIn	5 - Pointers and Arrays/5-2.cpp	/^int getIntFromStdIn( double *req_number )$/;"	f
+getIntegerNumber	5 - Pointers and Arrays/5-2.cpp	/^void getIntegerNumber( int *new_char, double *req_number )$/;"	f
+getIntegerPart	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void getIntegerPart()$/;"	f
+getLastNLinesCount	5 - Pointers and Arrays/5-13.c	/^void getLastNLinesCount( int argc, char *argv[] )$/;"	f
+getLine	2 - Types, Operators, and Expressions/2-2.c	/^void getLine()$/;"	f
+getLine	2 - Types, Operators, and Expressions/2-3.c	/^void getLine(char string[])$/;"	f
+getLine	2 - Types, Operators, and Expressions/2-4.c	/^void getLine(char string[])$/;"	f
+getLine	2 - Types, Operators, and Expressions/2-5.c	/^void getLine(char string[])$/;"	f
+getLine	4 - Functions and Program Structure/4-13.c	/^int getLine(char string[])$/;"	f
+getLine	5 - Pointers and Arrays/5-13.c	/^int getLine( char string[], int lim )$/;"	f
+getLineFromStdIn	1 - A Tutorial Introduction/1-16.c	/^int getLineFromStdIn( char line[] )$/;"	f
+getLineFromUser	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^int getLineFromUser( char *lineBuffer, int max ) {$/;"	f
+getLinesFromUser	5 - Pointers and Arrays/5-13.c	/^void getLinesFromUser()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-17.c	/^int getNewLine()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-18.c	/^int getNewLine()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-19.c	/^int getNewLine()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-20.c	/^int getNewLine()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-21.c	/^int getNewLine()$/;"	f
+getNewLine	1 - A Tutorial Introduction/1-22.c	/^int getNewLine()$/;"	f
+getNextQuerryToSort	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void getNextQuerryToSort( char *firstString, char *secondString )$/;"	f
+getSignMultiplierForNum	5 - Pointers and Arrays/5-1.cpp	/^void getSignMultiplierForNum( int *new_char, int *sign )$/;"	f
+getSignMultiplierForNum	5 - Pointers and Arrays/5-2.cpp	/^void getSignMultiplierForNum( int *new_char, int *sign )$/;"	f
+getSortingFlags	5 - Pointers and Arrays/5.16 - Directory Sorter/headers.h	/^void getSortingFlags( int *argc, char *argv[] )$/;"	f
+getTheElementToBeSearched	3 - Control Flow/3-1.c	/^void getTheElementToBeSearched()$/;"	f
+getTheFoldedChar	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void getTheFoldedChar( char *firstString, char *secondString )$/;"	f
+getch	4 - Functions and Program Structure/4-3-b.c	/^int getch(void)$/;"	f
+getch	4 - Functions and Program Structure/4-3.c	/^int getch(void)$/;"	f
+getch	5 - Pointers and Arrays/4.4 - RPN Calculator/others.h	/^int getch()$/;"	f
+getch	5 - Pointers and Arrays/5-1.cpp	/^int getch( void )$/;"	f
+getch	5 - Pointers and Arrays/5-2.cpp	/^int getch( void )$/;"	f
+getch	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/others.h	/^int getch( void ) {$/;"	f
+getch	6 - Structures/Exercise 6.1 - Count C Keywords/others.h	/^int getch( void ) {$/;"	f
+getch	6 - Structures/Exercise 6.2 - getword() with Parameters/utilities/utility.c	/^int getch( void ) {$/;"	f
+getline	5 - Pointers and Arrays/5-15.c	/^int getline( char *line ) {$/;"	f
+getop	4 - Functions and Program Structure/4-3-b.c	/^int getop(char inputString[])$/;"	f
+getop	4 - Functions and Program Structure/4-3.c	/^int getop(char inputString[])$/;"	f
+getop	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^int getop()$/;"	f
+gettoken	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^int gettoken( void ) {$/;"	f
+hexadecimalToInteger	2 - Types, Operators, and Expressions/2-3.c	/^int hexadecimalToInteger(char string[])$/;"	f
+higherIndex	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int higherIndex;$/;"	v
+higherKey	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  higherKey;$/;"	v
+higherValue	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+i	5 - Pointers and Arrays/5-12.c	/^int i, inc, pos, newChar, colIndex;$/;"	v
+inc	5 - Pointers and Arrays/5-11.c	/^int colIndex, inc, pos, newChar, buffLen = 0;$/;"	v
+inc	5 - Pointers and Arrays/5-12.c	/^int i, inc, pos, newChar, colIndex;$/;"	v
+index1	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int pos1,    last,    pos2,   index1;$/;"	v
+index2	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int index2,  endpos,  fold,   dir;$/;"	v
+inputBuffer	4 - Functions and Program Structure/4-3-b.c	/^char inputBuffer[BUFSIZE];$/;"	v
+inputBuffer	4 - Functions and Program Structure/4-3.c	/^char inputBuffer[BUFSIZE];$/;"	v
+inputBuffer	5 - Pointers and Arrays/5-11.c	/^char inputBuffer[ MAXLEN ];$/;"	v
+inputBuffer	5 - Pointers and Arrays/5-12.c	/^char inputBuffer[ MAXLEN ];$/;"	v
+integerToString	3 - Control Flow/3-4.c	/^void integerToString(int number, char string[])$/;"	f
+integerToString	3 - Control Flow/3-6.c	/^void integerToString(int number, char string[], int width)$/;"	f
+itemCount	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int itemCount, fold, dir;$/;"	v
+iterator	1 - A Tutorial Introduction/1-17.c	/^int newCharacter, stringSize, iterator, length;$/;"	v
+iterator	1 - A Tutorial Introduction/1-18.c	/^int newCharacter, stringSize, iterator, length, flag;$/;"	v
+iterator	1 - A Tutorial Introduction/1-19.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+iterator	1 - A Tutorial Introduction/1-20.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+iterator	1 - A Tutorial Introduction/1-21.c	/^int newCharacter, stringSize, iterator, length, spaceCount;$/;"	v
+iterator	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+iterator	2 - Types, Operators, and Expressions/2-2.c	/^int iterator, newCharacter;$/;"	v
+iterator	2 - Types, Operators, and Expressions/2-3.c	/^int value, iterator, newCharacter, flag, value;$/;"	v
+iterator	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+iterator	2 - Types, Operators, and Expressions/2-5.c	/^int iterator, newCharacter, flag;$/;"	v
+iterator	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+iterator	5 - Pointers and Arrays/5-14.c	/^int iterator, reverse = FALSE, len;$/;"	v
+itoa	4 - Functions and Program Structure/4-12.c	/^void itoa(int number, char string[])$/;"	f
+key	6 - Structures/Exercise 6.1 - Count C Keywords/structures.h	/^struct key {$/;"	s
+key	6 - Structures/Exercise 6.2 - getword() with Parameters/keysStructure.c	/^struct key {$/;"	s	file:
+keyCount	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int keyCount;$/;"	v
+keytab	6 - Structures/Exercise 6.1 - Count C Keywords/structures.h	/^} keytab[] = {$/;"	v	typeref:struct:key
+keytab	6 - Structures/Exercise 6.2 - getword() with Parameters/keysStructure.c	/^} keytab[] =  {$/;"	v	typeref:struct:key
+last	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int len, nlines, counter, last;$/;"	v
+last	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int pos1,    last,    pos2,   index1;$/;"	v
+lastLine	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+lastNLines	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+len	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+len	5 - Pointers and Arrays/5-14.c	/^int iterator, reverse = FALSE, len;$/;"	v
+len	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int len, nlines, counter, last;$/;"	v
+len	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int option,  len,     nlines, success;$/;"	v
+length	1 - A Tutorial Introduction/1-17.c	/^int newCharacter, stringSize, iterator, length;$/;"	v
+length	1 - A Tutorial Introduction/1-18.c	/^int newCharacter, stringSize, iterator, length, flag;$/;"	v
+length	1 - A Tutorial Introduction/1-19.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+length	1 - A Tutorial Introduction/1-20.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+length	1 - A Tutorial Introduction/1-21.c	/^int newCharacter, stringSize, iterator, length, spaceCount;$/;"	v
+length	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+limitReached	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+line	5 - Pointers and Arrays/5-13.c	/^char line[ MAXLEN ], *lineptr[ MAXLINES ];$/;"	v
+line	5 - Pointers and Arrays/5-14.c	/^char *linePtr, line[ MAXLEN ], lineCount;$/;"	v
+line	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char *p, line[ MAXLEN ], option;$/;"	v
+line	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^char line[ MAXLEN ], *buff_ptr;$/;"	v
+line	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char *lineptr[ LINES ],     *p,      line[ MAXLEN ];$/;"	v
+lineCount	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+lineCount	5 - Pointers and Arrays/5-14.c	/^char *linePtr, line[ MAXLEN ], lineCount;$/;"	v
+lineNo	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^int newCharacter, missplacedComment = NOTFOUND, lineNo = START, flag = OFF;$/;"	v
+lineNo	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int lineNo;$/;"	v
+linePtr	5 - Pointers and Arrays/5-14.c	/^char *linePtr, line[ MAXLEN ], lineCount;$/;"	v
+lineptr	5 - Pointers and Arrays/5-13.c	/^char line[ MAXLEN ], *lineptr[ MAXLINES ];$/;"	v
+lineptr	5 - Pointers and Arrays/5-14.c	/^char numeric = FALSE, *lineptr[ MAXLINES ];$/;"	v
+lineptr	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^char  *lineptr[ MAXLINES ];$/;"	v
+lineptr	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char *lineptr[ LINES ];$/;"	v
+lineptr	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^char *lineptr[ MAXLINES ];$/;"	v
+lineptr	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char *lineptr[ LINES ],     *p,      line[ MAXLEN ];$/;"	v
+linestop	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^char *linestop;$/;"	v
+lower	1 - A Tutorial Introduction/1-15.c	/^int lower = 0, upper = 300, step = 20;$/;"	v
+lowerIndex	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int lowerIndex;$/;"	v
+lowerKey	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  lowerKey;$/;"	v
+lowerValue	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+main	1 - A Tutorial Introduction/1-10.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-11.c	/^int main(void)$/;"	f
+main	1 - A Tutorial Introduction/1-12.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-13.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-14.c	/^int main(void)$/;"	f
+main	1 - A Tutorial Introduction/1-15.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-16.c	/^int main( void )$/;"	f
+main	1 - A Tutorial Introduction/1-17.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-18.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-19.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-20.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-21.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-22.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-23.c	/^int main(void)$/;"	f
+main	1 - A Tutorial Introduction/1-4-b.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-4.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-5.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-6.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-7.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-8.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1-9.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1.1 - Testing Hello World/main.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1.2 - Experiment with printf/main.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/1.3 - Temperature Convertor/main.c	/^int main()$/;"	f
+main	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int main(void)$/;"	f
+main	1 - A Tutorial Introduction/Remove_Comments/xd.c	/^int main(void)$/;"	f
+main	2 - Types, Operators, and Expressions/2-10.c	/^int main()$/;"	f
+main	2 - Types, Operators, and Expressions/2-2.c	/^int main()$/;"	f
+main	2 - Types, Operators, and Expressions/2-3.c	/^int main()$/;"	f
+main	2 - Types, Operators, and Expressions/2-4.c	/^int main()$/;"	f
+main	2 - Types, Operators, and Expressions/2-5.c	/^int main()$/;"	f
+main	2 - Types, Operators, and Expressions/2.2 - Count the Ranges/main.c	/^int main( int argc, char **argv ) {$/;"	f
+main	3 - Control Flow/3-1.c	/^int main()$/;"	f
+main	3 - Control Flow/3-2.c	/^int main()$/;"	f
+main	3 - Control Flow/3-4.c	/^int main()$/;"	f
+main	3 - Control Flow/3-5.c	/^int main()$/;"	f
+main	3 - Control Flow/3-6.c	/^int main()$/;"	f
+main	4 - Functions and Program Structure/4-1.c	/^int main()$/;"	f
+main	4 - Functions and Program Structure/4-12.c	/^int main(void)$/;"	f
+main	4 - Functions and Program Structure/4-13.c	/^int main(void)$/;"	f
+main	4 - Functions and Program Structure/4-14.c	/^int main(void)$/;"	f
+main	4 - Functions and Program Structure/4-2.c	/^int main(void)$/;"	f
+main	4 - Functions and Program Structure/4-3-b.c	/^int main(void)$/;"	f
+main	4 - Functions and Program Structure/4-3.c	/^int main(void)$/;"	f
+main	5 - Pointers and Arrays/4.4 - RPN Calculator/main.c	/^int main()$/;"	f
+main	5 - Pointers and Arrays/5-1.cpp	/^int main( void )$/;"	f
+main	5 - Pointers and Arrays/5-11.c	/^int main( int argc, char *argv[] )$/;"	f
+main	5 - Pointers and Arrays/5-12.c	/^int main( int argc, char *argv[] )$/;"	f
+main	5 - Pointers and Arrays/5-13.c	/^int main( int argc, char *argv[] )$/;"	f
+main	5 - Pointers and Arrays/5-14.c	/^int main( int argc, char *argv[] )$/;"	f
+main	5 - Pointers and Arrays/5-15.c	/^int  main(int argc, char *argv[])$/;"	f
+main	5 - Pointers and Arrays/5-2.cpp	/^int main( void )$/;"	f
+main	5 - Pointers and Arrays/5-3.c	/^int main( void )$/;"	f
+main	5 - Pointers and Arrays/5-4.c	/^int main( void )$/;"	f
+main	5 - Pointers and Arrays/5-5.c	/^int main(int argc, char *argv[])$/;"	f
+main	5 - Pointers and Arrays/5-8.c	/^int main ( void )$/;"	f
+main	5 - Pointers and Arrays/5-9.c	/^int main ( void )$/;"	f
+main	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/main.c	/^int main( int argc, char *argv[] ) {$/;"	f
+main	5 - Pointers and Arrays/5.16 - Directory Sorter/main.c	/^int main( int argc, char *argv[] )$/;"	f
+main	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/main.c	/^int main() {$/;"	f
+main	5 - Pointers and Arrays/5.7 - Readlines using array/main.c	/^int main( void )$/;"	f
+main	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/main.c	/^int main( int argc, char *argv[] )$/;"	f
+main	6 - Structures/Exercise 6.1 - Count C Keywords/main.c	/^int main( void ) {$/;"	f
+main	6 - Structures/Exercise 6.2 - getword() with Parameters/main.c	/^int main( void ) {$/;"	f
+mgetline	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^int mgetline( char s[] )$/;"	f
+mgetline	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^int mgetline( char line_buffer[], int lim )$/;"	f
+midPoint	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int midPoint;$/;"	v
+midValue	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+middleKey	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  middleKey;$/;"	v
+minNumber	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+missplacedComment	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^int newCharacter, missplacedComment = NOTFOUND, lineNo = START, flag = OFF;$/;"	v
+mode	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^char fileName[MAXLENGTH], mode = READ;$/;"	v
+myGetWord	6 - Structures/Exercise 6.2 - getword() with Parameters/input_output/input_output.c	/^int myGetWord( char *word, int lim ) {$/;"	f
+name	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char       name[    MAXLEN ];$/;"	v
+negativeNumFound	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^int negativeNumFound()$/;"	f
+newChar	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^char newChar, buf[ BUFSIZE ];$/;"	v
+newChar	5 - Pointers and Arrays/5-11.c	/^int colIndex, inc, pos, newChar, buffLen = 0;$/;"	v
+newChar	5 - Pointers and Arrays/5-12.c	/^int i, inc, pos, newChar, colIndex;$/;"	v
+newChar	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int    newChar;$/;"	v
+newChar	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int newChar, counter, first,  second;$/;"	v
+newChar	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int newChar;$/;"	v
+newChar	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  newChar; $/;"	v
+newCharacter	1 - A Tutorial Introduction/1-17.c	/^int newCharacter, stringSize, iterator, length;$/;"	v
+newCharacter	1 - A Tutorial Introduction/1-18.c	/^int newCharacter, stringSize, iterator, length, flag;$/;"	v
+newCharacter	1 - A Tutorial Introduction/1-19.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+newCharacter	1 - A Tutorial Introduction/1-20.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+newCharacter	1 - A Tutorial Introduction/1-21.c	/^int newCharacter, stringSize, iterator, length, spaceCount;$/;"	v
+newCharacter	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+newCharacter	1 - A Tutorial Introduction/Remove_Comments/global_parameters.h	/^int newCharacter, missplacedComment = NOTFOUND, lineNo = START, flag = OFF;$/;"	v
+newCharacter	2 - Types, Operators, and Expressions/2-10.c	/^int newCharacter, flag = ON;$/;"	v
+newCharacter	2 - Types, Operators, and Expressions/2-2.c	/^int iterator, newCharacter;$/;"	v
+newCharacter	2 - Types, Operators, and Expressions/2-3.c	/^int value, iterator, newCharacter, flag, value;$/;"	v
+newCharacter	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+newCharacter	2 - Types, Operators, and Expressions/2-5.c	/^int iterator, newCharacter, flag;$/;"	v
+newLineCount	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+nextToken	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^int nextToken;$/;"	v
+nlines	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int     nlines;$/;"	v
+nlines	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int len, nlines, counter, last;$/;"	v
+nlines	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^int nlines, choice, error;$/;"	v
+nlines	5 - Pointers and Arrays/5.7 - Readlines using array/globals.h	/^int buff_Len, nlines;$/;"	v
+nlines	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int option,  len,     nlines, success;$/;"	v
+noValidFlagsFound	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/headers.h	/^int noValidFlagsFound( char *argv[] ) {$/;"	f
+numcmp	5 - Pointers and Arrays/5-14.c	/^int numcmp( const void *prevPtr, const void *nxtPtr )$/;"	f
+numcmp	5 - Pointers and Arrays/5-15.c	/^int numcmp(const void *p1, const void *p2)$/;"	f
+numcmp	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/headers.h	/^int numcmp( char *buffer1, char *buffer2 ) {$/;"	f
+numcmp	5 - Pointers and Arrays/5.16 - Directory Sorter/headers.h	/^int numcmp( char *first_Item, char *second_Item )$/;"	f
+numcmp	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^int numcmp( char *s1, char *s2 )$/;"	f
+numeric	5 - Pointers and Arrays/5-14.c	/^char numeric = FALSE, *lineptr[ MAXLINES ];$/;"	v
+numeric	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^int    numeric;$/;"	v
+op1	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^double op2, op1, val[ MAXVAL ];$/;"	v
+op2	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^double op2, op1, val[ MAXVAL ];$/;"	v
+option	5 - Pointers and Arrays/5-15.c	/^static char option = 0;$/;"	v	file:
+option	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char *p, line[ MAXLEN ], option;$/;"	v
+option	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int option,  len,     nlines, success;$/;"	v
+out	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char        out[    MAXLEN ];$/;"	v
+p	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^char *p, line[ MAXLEN ], option;$/;"	v
+p	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char *lineptr[ LINES ],     *p,      line[ MAXLEN ];$/;"	v
+performOperations	5 - Pointers and Arrays/5-5.c	/^void performOperations( char *string1, char *string2 )$/;"	f
+performSortingAsPerFlags	5 - Pointers and Arrays/5.16 - Directory Sorter/headers.h	/^void performSortingAsPerFlags()$/;"	f
+pop	4 - Functions and Program Structure/4-3-b.c	/^double pop(void)$/;"	f
+pop	4 - Functions and Program Structure/4-3.c	/^double pop(void)$/;"	f
+pop	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^double pop()$/;"	f
+pos	5 - Pointers and Arrays/5-11.c	/^int colIndex, inc, pos, newChar, buffLen = 0;$/;"	v
+pos	5 - Pointers and Arrays/5-12.c	/^int i, inc, pos, newChar, colIndex;$/;"	v
+pos1	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int pos1,    last,    pos2,   index1;$/;"	v
+pos2	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int pos1,    last,    pos2,   index1;$/;"	v
+position	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+position	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^int  position;$/;"	v
+prevTokenFound	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^int prevTokenFound( void ) {$/;"	f
+prevtoken	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^int prevtoken;$/;"	v
+printErrorsIfAny	1 - A Tutorial Introduction/1-23.c	/^void printErrorsIfAny(int missplacedComment, char fileName[], int lineNo)$/;"	f
+printErrorsIfAny	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int printErrorsIfAny()$/;"	f
+printHelp	5 - Pointers and Arrays/4.4 - RPN Calculator/others.h	/^void printHelp()$/;"	f
+printLastNLines	5 - Pointers and Arrays/5-13.c	/^void printLastNLines()$/;"	f
+printLine	2 - Types, Operators, and Expressions/2-2.c	/^void printLine()$/;"	f
+printLineNo	5 - Pointers and Arrays/5-14.c	/^void printLineNo()$/;"	f
+printRemainingBlanks	5 - Pointers and Arrays/5-12.c	/^void printRemainingBlanks()$/;"	f
+printString	1 - A Tutorial Introduction/1-17.c	/^void printString()$/;"	f
+printString	1 - A Tutorial Introduction/1-18.c	/^void printString()$/;"	f
+printString	1 - A Tutorial Introduction/1-19.c	/^void printString()$/;"	f
+printString	1 - A Tutorial Introduction/1-20.c	/^void printString()$/;"	f
+printString	1 - A Tutorial Introduction/1-21.c	/^void printString()$/;"	f
+printString	1 - A Tutorial Introduction/1-22.c	/^void printString()$/;"	f
+printTabsFound	5 - Pointers and Arrays/5-12.c	/^void printTabsFound()$/;"	f
+processAndStoreNumInStdIn	5 - Pointers and Arrays/5-1.cpp	/^void processAndStoreNumInStdIn( int *new_char, int *req_number )$/;"	f
+processIfCmdArgPresent	5 - Pointers and Arrays/5-14.c	/^void processIfCmdArgPresent( int argc, char *argv[] )$/;"	f
+processTheCharacter	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int processTheCharacter()$/;"	f
+pstrcmp	5 - Pointers and Arrays/5-14.c	/^int pstrcmp( const void *prevPtr, const void *nxtPtr )$/;"	f
+ptr	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char *ptr;$/;"	v
+ptr	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^char *ptr;$/;"	v
+ptrCount	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^int ptrCount;$/;"	v
+push	4 - Functions and Program Structure/4-3-b.c	/^void push(double value)$/;"	f
+push	4 - Functions and Program Structure/4-3.c	/^void push(double value)$/;"	f
+push	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void push( double operand )$/;"	f
+putString	2 - Types, Operators, and Expressions/2-4.c	/^void putString(char string[])$/;"	f
+qsort	5 - Pointers and Arrays/5-15.c	/^void qsort(void *v[], int left, int right, int (*cmp)(void *,void *))$/;"	f
+quickSort	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^void quickSort( void *v[], int left, int right, int ( *comp ) ( void *, void * ) )$/;"	f
+quickSort	5 - Pointers and Arrays/5.7 - Readlines using array/headers.h	/^void quickSort( char *line_buffer[], int left, int right )$/;"	f
+quickSort	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^void quickSort( void *v[], int left, int right, int ( *comp )( void *, void * ) )$/;"	f
+quicksort	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^void quicksort( void *v[], int left, int right, int ( *comp )( void*, void* ) ) {$/;"	f
+range	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+readFileForCommentError	1 - A Tutorial Introduction/1-23.c	/^void readFileForCommentError(char fileName[], char mode)$/;"	f
+readFileForCommentError	1 - A Tutorial Introduction/Remove_Comments/main.c	/^void readFileForCommentError()$/;"	f
+readargs	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void readargs( int argc, char *argv[] )$/;"	f
+readlines	5 - Pointers and Arrays/5-14.c	/^int readlines()$/;"	f
+readlines	5 - Pointers and Arrays/5-15.c	/^int readlines(char *lineptr[], int maxlines)$/;"	f
+readlines	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^int readlines( char *lineptr[], int maxlines ) {$/;"	f
+readlines	5 - Pointers and Arrays/5.16 - Directory Sorter/headers.h	/^int readlines( char *lineptr[], int maxlines )$/;"	f
+readlines	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^int readlines( char *lineptr[], int maxlines )$/;"	f
+removeTrailingSpaces	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^void removeTrailingSpaces()$/;"	f
+removeTrailingSpaces	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/gettoken.h	/^void removeTrailingSpaces( void ) {$/;"	f
+replaceTabWithSpaces	5 - Pointers and Arrays/5-11.c	/^void replaceTabWithSpaces()$/;"	f
+resetLinePointerArray	5 - Pointers and Arrays/5-13.c	/^void resetLinePointerArray()$/;"	f
+resetTabStops	5 - Pointers and Arrays/5-11.c	/^void resetTabStops()$/;"	f
+resetTabStops	5 - Pointers and Arrays/5-12.c	/^void resetTabStops()$/;"	f
+reverse	4 - Functions and Program Structure/4-13.c	/^void reverse(char string[], int iterator, int length)$/;"	f
+reverse	5 - Pointers and Arrays/5-14.c	/^int iterator, reverse = FALSE, len;$/;"	v
+reverseString	1 - A Tutorial Introduction/1-19.c	/^void reverseString()$/;"	f
+reverseString	3 - Control Flow/3-4.c	/^void reverseString(char string[], int reverseIterator)$/;"	f
+reverseString	3 - Control Flow/3-5.c	/^void reverseString(char string[], int reverseIterator)$/;"	f
+reverseString	3 - Control Flow/3-6.c	/^void reverseString(char string[], int reverseIterator)$/;"	f
+searchIndex	6 - Structures/Exercise 6.1 - Count C Keywords/globals.h	/^int searchIndex;$/;"	v
+searchTheElement	3 - Control Flow/3-1.c	/^void searchTheElement()$/;"	f
+second	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int newChar, counter, first,  second;$/;"	v
+secondChar	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^char secondChar;$/;"	v
+secondIterator	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+setCustomTabStops	5 - Pointers and Arrays/5-11.c	/^void setCustomTabStops( int argc, char *argv[] )$/;"	f
+setCustomTabStops	5 - Pointers and Arrays/5-12.c	/^void setCustomTabStops( int argc, char *argv[] )$/;"	f
+setDefaultTabStops	5 - Pointers and Arrays/5-11.c	/^void setDefaultTabStops()$/;"	f
+setDefaultTabStops	5 - Pointers and Arrays/5-12.c	/^void setDefaultTabStops()$/;"	f
+setFlags	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void setFlags()$/;"	f
+setRangedTabStops	5 - Pointers and Arrays/5-11.c	/^void setRangedTabStops()$/;"	f
+setRangedTabStops	5 - Pointers and Arrays/5-12.c	/^void setRangedTabStops()$/;"	f
+setTabStops	5 - Pointers and Arrays/5-11.c	/^void setTabStops( int argc, char *argv[] )$/;"	f
+setTabStops	5 - Pointers and Arrays/5-12.c	/^void setTabStops( int argc, char *argv[] )$/;"	f
+singleLineCommentFound	1 - A Tutorial Introduction/Remove_Comments/main.c	/^void singleLineCommentFound()$/;"	f
+skipWhiteSpaceInStdIn	5 - Pointers and Arrays/5-1.cpp	/^void skipWhiteSpaceInStdIn( int *new_char )$/;"	f
+skipWhiteSpaceInStdIn	5 - Pointers and Arrays/5-2.cpp	/^void skipWhiteSpaceInStdIn( int *new_char )$/;"	f
+sp	4 - Functions and Program Structure/4-3-b.c	/^int sp = 0;$/;"	v
+sp	4 - Functions and Program Structure/4-3.c	/^int sp = 0;$/;"	v
+spaceCount	1 - A Tutorial Introduction/1-21.c	/^int newCharacter, stringSize, iterator, length, spaceCount;$/;"	v
+spaceCount	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+squeeze	2 - Types, Operators, and Expressions/2-4.c	/^void squeeze(char firstString[], char secondString[])$/;"	f
+stackptr	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^int stackptr, flag;$/;"	v
+startingAddress	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/globals.h	/^char     *startingAddress;$/;"	v
+step	1 - A Tutorial Introduction/1-15.c	/^int lower = 0, upper = 300, step = 20;$/;"	v
+storeLastNLines	5 - Pointers and Arrays/5-13.c	/^void storeLastNLines()$/;"	f
+storeTab_using_WhiteSpaces	1 - A Tutorial Introduction/1-20.c	/^void storeTab_using_WhiteSpaces()$/;"	f
+storeWhiteSpaces_using_Tab	1 - A Tutorial Introduction/1-21.c	/^void storeWhiteSpaces_using_Tab()$/;"	f
+strIndex	5 - Pointers and Arrays/5-13.c	/^int first, strIndex, lastLine, len, lastNLines, lineCount;$/;"	v
+strLen	5 - Pointers and Arrays/5-4.c	/^int strLen;$/;"	v
+strindex	4 - Functions and Program Structure/4-1.c	/^int strindex(char string[],char patternString[])$/;"	f
+string	1 - A Tutorial Introduction/1-17.c	/^char string[MAXSIZE];$/;"	v
+string	1 - A Tutorial Introduction/1-18.c	/^char string[MAXSIZE];$/;"	v
+string	1 - A Tutorial Introduction/1-19.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+string	1 - A Tutorial Introduction/1-20.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+string	1 - A Tutorial Introduction/1-21.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+string	1 - A Tutorial Introduction/1-22.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+string	2 - Types, Operators, and Expressions/2-2.c	/^char string[MAXLENGTH];$/;"	v
+stringPBRK	2 - Types, Operators, and Expressions/2-5.c	/^int stringPBRK(char firstString[], char secondString[])$/;"	f
+stringSize	1 - A Tutorial Introduction/1-17.c	/^int newCharacter, stringSize, iterator, length;$/;"	v
+stringSize	1 - A Tutorial Introduction/1-18.c	/^int newCharacter, stringSize, iterator, length, flag;$/;"	v
+stringSize	1 - A Tutorial Introduction/1-19.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+stringSize	1 - A Tutorial Introduction/1-20.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+stringSize	1 - A Tutorial Introduction/1-21.c	/^int newCharacter, stringSize, iterator, length, spaceCount;$/;"	v
+stringSize	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+substr	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/headers.h	/^void substr( char *line_buffer, char *str ) {$/;"	f
+success	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^int option,  len,     nlines, success;$/;"	v
+swap	4 - Functions and Program Structure/4-14.c	4;"	d	file:
+swap	5 - Pointers and Arrays/5-15.c	/^void swap(void *v[], int i, int j)$/;"	f
+swap	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^void swap( void *v[], int i, int j ) {$/;"	f
+swap	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^void swap( void *lineBuffer[], int large, int small )$/;"	f
+swap	5 - Pointers and Arrays/5.7 - Readlines using array/headers.h	/^void swap( char *line_buffer[], int first, int second )$/;"	f
+swap	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^void swap( void *v[], int first, int second )$/;"	f
+tabCount	5 - Pointers and Arrays/5-12.c	/^int blanksCount, tabCount, buffLen;$/;"	v
+tabpos	5 - Pointers and Arrays/5-11.c	/^int tabpos()$/;"	f
+tabpos	5 - Pointers and Arrays/5-12.c	/^int tabpos()$/;"	f
+targetElement	3 - Control Flow/3-1.c	/^int arrayToBeSearched[MAXLENGTH], minNumber, range, iterator, targetElement, midValue, lowerValue, higherValue, position;$/;"	v
+temp	1 - A Tutorial Introduction/1-19.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+temp	1 - A Tutorial Introduction/1-20.c	/^int newCharacter, stringSize, iterator, length, temp;$/;"	v
+temp	1 - A Tutorial Introduction/1-22.c	/^int newCharacter, stringSize, iterator, length, spaceCount, temp, flag, newLineCount, limitReached;$/;"	v
+temp	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+temp	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/globals.h	/^void *temp;$/;"	v
+tempBuffer	5 - Pointers and Arrays/5.16 - Directory Sorter/globals.h	/^void *tempBuffer;$/;"	v
+tempBuffer	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char tempBuffer[    MAXLEN ];$/;"	v
+tempCharacter	1 - A Tutorial Introduction/1-19.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+tempCharacter	1 - A Tutorial Introduction/1-20.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+tempCharacter	1 - A Tutorial Introduction/1-21.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+tempCharacter	1 - A Tutorial Introduction/1-22.c	/^char string[MAXSIZE], tempCharacter;$/;"	v
+temperatureConversion	1 - A Tutorial Introduction/1-15.c	/^void temperatureConversion()$/;"	f
+token	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^char      token[ TOKENSIZE ];$/;"	v
+tokentype	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/globals.h	/^int tokentype;$/;"	v
+ungetch	4 - Functions and Program Structure/4-3-b.c	/^void ungetch(int newCharacter)$/;"	f
+ungetch	4 - Functions and Program Structure/4-3.c	/^void ungetch(int newCharacter)$/;"	f
+ungetch	5 - Pointers and Arrays/4.4 - RPN Calculator/others.h	/^void ungetch( int buffChar )$/;"	f
+ungetch	5 - Pointers and Arrays/5-1.cpp	/^void ungetch( int *new_char )$/;"	f
+ungetch	5 - Pointers and Arrays/5-2.cpp	/^void ungetch( int *new_char )$/;"	f
+ungetch	5 - Pointers and Arrays/5.18 + 5.19 - DCL and DIRDCL/others.h	/^void ungetch( int newChar ) {$/;"	f
+ungetch	6 - Structures/Exercise 6.1 - Count C Keywords/others.h	/^void ungetch( int newChar ) {$/;"	f
+ungetch	6 - Structures/Exercise 6.2 - getword() with Parameters/utilities/utility.c	/^void ungetch( int nextChar ) {$/;"	f
+unknownCharFound	5 - Pointers and Arrays/4.4 - RPN Calculator/headers.h	/^int unknownCharFound()$/;"	f
+updateVariables	5 - Pointers and Arrays/5-13.c	/^void updateVariables()$/;"	f
+upper	1 - A Tutorial Introduction/1-15.c	/^int lower = 0, upper = 300, step = 20;$/;"	v
+val	5 - Pointers and Arrays/4.4 - RPN Calculator/globals.h	/^double op2, op1, val[ MAXVAL ];$/;"	v
+validateElementFound	3 - Control Flow/3-1.c	/^void validateElementFound()$/;"	f
+validateIfCommentFound	1 - A Tutorial Introduction/Remove_Comments/main.c	/^int validateIfCommentFound()$/;"	f
+validateLastNLinesCount	5 - Pointers and Arrays/5-13.c	/^void validateLastNLinesCount()$/;"	f
+value	2 - Types, Operators, and Expressions/2-3.c	/^int value, iterator, newCharacter, flag, value;$/;"	v
+value	2 - Types, Operators, and Expressions/2-4.c	/^int value, iterator, newCharacter, flag, secondIterator, temp;$/;"	v
+valueArray	4 - Functions and Program Structure/4-3-b.c	/^double valueArray[MAXVAL];$/;"	v
+valueArray	4 - Functions and Program Structure/4-3.c	/^double valueArray[MAXVAL];$/;"	v
+word	6 - Structures/Exercise 6.1 - Count C Keywords/structures.h	/^    char *word;$/;"	m	struct:key
+word	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^char word[ MAXWORD ];$/;"	v
+word	6 - Structures/Exercise 6.2 - getword() with Parameters/keysStructure.c	/^    char *word;$/;"	m	struct:key	file:
+wordPTR	6 - Structures/Exercise 6.2 - getword() with Parameters/header_files/globals.h	/^char *wordPTR;$/;"	v
+writelines	5 - Pointers and Arrays/5-14.c	/^void writelines( char *lineptr[], int lineCount )$/;"	f
+writelines	5 - Pointers and Arrays/5-15.c	/^void writelines(char *lineptr[], int nlines)$/;"	f
+writelines	5 - Pointers and Arrays/5.14 + 5.17 - Sort with Options/others.h	/^void writelines( char *lineptr[], int nlines ) {$/;"	f
+writelines	5 - Pointers and Arrays/5.16 - Directory Sorter/others.h	/^void writelines( char *lineptr[], int nlines, int order )$/;"	f
+writelines	5 - Pointers and Arrays/Exercise 5.17 - Sorting with fields/others.h	/^void writelines( char *lineptr[], int nlines )$/;"	f

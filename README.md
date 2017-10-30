@@ -1,17 +1,7 @@
-# lol
-## lol
-### lol
-#### lol
-##### lol
-
-[^1]
-Hello, How are you?
-[^1]: 
-
 # lol #
-  *lol
-  
- **lololol**
+
+*lol
+**lololol**
 
  ``` 1c-enterprise
  lol
@@ -23,8 +13,6 @@ Hello, How are you?
 int main(void) {
   print("Hello World !\n");
 }
- ```
+```
 
->Hello, How are you? :D 
-
- 
+> Hello, How are you? :D
