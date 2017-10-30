@@ -1,8 +1,30 @@
-![KNR | La Bible](https://drive.google.com/uc?export=download&id=14mdT1A8ZWih3lMF1yZs-tQ-Ewi83rpFjgw "KNR | La Bible")
+# lol
+## lol
+### lol
+#### lol
+##### lol
 
-# About - The Journey !
+[^1]
+Hello, How are you?
+[^1]: 
 
-### Intro en route !
-```
-Stay Tuned :D
-```
+# lol #
+  *lol
+  
+ **lololol**
+
+ ``` 1c-enterprise
+ lol
+ ```
+
+ ``` c++
+#include <stdio.h>
+
+int main(void) {
+  print("Hello World !\n");
+}
+ ```
+
+>Hello, How are you? :D 
+
+ 
